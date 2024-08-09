@@ -1,0 +1,15 @@
+C:\Users\53844614893\Desktop\exercises-logic\numberOfLetters\bin\Debug\net8.0\numberOfLetters.exe
+C:\Users\53844614893\Desktop\exercises-logic\numberOfLetters\bin\Debug\net8.0\numberOfLetters.deps.json
+C:\Users\53844614893\Desktop\exercises-logic\numberOfLetters\bin\Debug\net8.0\numberOfLetters.runtimeconfig.json
+C:\Users\53844614893\Desktop\exercises-logic\numberOfLetters\bin\Debug\net8.0\numberOfLetters.dll
+C:\Users\53844614893\Desktop\exercises-logic\numberOfLetters\bin\Debug\net8.0\numberOfLetters.pdb
+C:\Users\53844614893\Desktop\exercises-logic\numberOfLetters\obj\Debug\net8.0\numberOfLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\exercises-logic\numberOfLetters\obj\Debug\net8.0\numberOfLetters.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\exercises-logic\numberOfLetters\obj\Debug\net8.0\numberOfLetters.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\exercises-logic\numberOfLetters\obj\Debug\net8.0\numberOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\53844614893\Desktop\exercises-logic\numberOfLetters\obj\Debug\net8.0\numberOfLetters.sourcelink.json
+C:\Users\53844614893\Desktop\exercises-logic\numberOfLetters\obj\Debug\net8.0\numberOfLetters.dll
+C:\Users\53844614893\Desktop\exercises-logic\numberOfLetters\obj\Debug\net8.0\refint\numberOfLetters.dll
+C:\Users\53844614893\Desktop\exercises-logic\numberOfLetters\obj\Debug\net8.0\numberOfLetters.pdb
+C:\Users\53844614893\Desktop\exercises-logic\numberOfLetters\obj\Debug\net8.0\numberOfLetters.genruntimeconfig.cache
+C:\Users\53844614893\Desktop\exercises-logic\numberOfLetters\obj\Debug\net8.0\ref\numberOfLetters.dll

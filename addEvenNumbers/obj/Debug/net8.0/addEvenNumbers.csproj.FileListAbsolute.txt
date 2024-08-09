@@ -1,0 +1,15 @@
+C:\Users\53844614893\Desktop\exercises-logic\addEvenNumbers\bin\Debug\net8.0\addEvenNumbers.exe
+C:\Users\53844614893\Desktop\exercises-logic\addEvenNumbers\bin\Debug\net8.0\addEvenNumbers.deps.json
+C:\Users\53844614893\Desktop\exercises-logic\addEvenNumbers\bin\Debug\net8.0\addEvenNumbers.runtimeconfig.json
+C:\Users\53844614893\Desktop\exercises-logic\addEvenNumbers\bin\Debug\net8.0\addEvenNumbers.dll
+C:\Users\53844614893\Desktop\exercises-logic\addEvenNumbers\bin\Debug\net8.0\addEvenNumbers.pdb
+C:\Users\53844614893\Desktop\exercises-logic\addEvenNumbers\obj\Debug\net8.0\addEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\exercises-logic\addEvenNumbers\obj\Debug\net8.0\addEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\exercises-logic\addEvenNumbers\obj\Debug\net8.0\addEvenNumbers.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\exercises-logic\addEvenNumbers\obj\Debug\net8.0\addEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\53844614893\Desktop\exercises-logic\addEvenNumbers\obj\Debug\net8.0\addEvenNumbers.sourcelink.json
+C:\Users\53844614893\Desktop\exercises-logic\addEvenNumbers\obj\Debug\net8.0\addEvenNumbers.dll
+C:\Users\53844614893\Desktop\exercises-logic\addEvenNumbers\obj\Debug\net8.0\refint\addEvenNumbers.dll
+C:\Users\53844614893\Desktop\exercises-logic\addEvenNumbers\obj\Debug\net8.0\addEvenNumbers.pdb
+C:\Users\53844614893\Desktop\exercises-logic\addEvenNumbers\obj\Debug\net8.0\addEvenNumbers.genruntimeconfig.cache
+C:\Users\53844614893\Desktop\exercises-logic\addEvenNumbers\obj\Debug\net8.0\ref\addEvenNumbers.dll
